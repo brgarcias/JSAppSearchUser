@@ -1,0 +1,33 @@
+body {
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+#user {
+  width: 700px;
+}
+
+.input-field {
+  display: block;
+  margin-top: 30px;
+}
+
+a{
+  margin-left: 15px;
+}
+
+#resUser{
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+#resStatistic {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-start;
+  margin-inline-end: 250px;
+}
